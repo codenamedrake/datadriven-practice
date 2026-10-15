@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/granite_wave_2481), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deploy Outcomes by Service](./practice/sql/deploy-outcomes-by-service) | SQL | Hard | 2026-10-15 |
 | [Below the Line](./practice/sql/below-the-line) | SQL | Medium | 2026-10-15 |
 
 <!-- datadriven:index:end -->
